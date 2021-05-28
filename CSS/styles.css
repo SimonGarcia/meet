@@ -234,6 +234,10 @@ footer .col {
     margin-left: 7rem;
 }
 
+footer .copy {
+    width: 100%;
+}
+
 .col-1 {
     width: 25%;
 }
